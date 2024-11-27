@@ -1,6 +1,6 @@
 # LoRa-PGD
 
-###Dayana Savostianova(GSSI), Emanuele Zangrando(GSSI), Francesco Tudisco(University of Edinburgh, GSSI)
+### Dayana Savostianova(GSSI), Emanuele Zangrando(GSSI), Francesco Tudisco(University of Edinburgh, GSSI)
 
 Paper: https://arxiv.org/abs/2410.12607
 
