@@ -1,8 +1,10 @@
 # LoRa-PGD
 
-### Dayana Savostianova(GSSI), Emanuele Zangrando(GSSI), Francesco Tudisco(University of Edinburgh, GSSI)
+This repository provides the code for the "Low-Rank Adversarial PGD Attack" paper.
 
-Paper: https://arxiv.org/abs/2410.12607
+### Authors: Dayana Savostianova(GSSI), Emanuele Zangrando(GSSI), Francesco Tudisco(University of Edinburgh, GSSI)
+
+### Current version of the paper: https://arxiv.org/abs/2410.12607
 
 To produce results from the paper please run "run_experiments.sh" file.
 
